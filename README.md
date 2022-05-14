@@ -1,1 +1,1 @@
-# Stopwtach_Teach
+# Stopwatch project
